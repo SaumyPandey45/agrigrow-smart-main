@@ -1,0 +1,9 @@
+.\.venv\Scripts\Activate.ps1fastapi
+uvicorn
+pymongo
+pydantic
+pandas
+numpy
+scikit-learn
+joblib
+python-dotenv
